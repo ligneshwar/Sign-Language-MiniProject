@@ -114,12 +114,13 @@ This enables users to interact with the system using natural voice commands.
 
 ##  Author
 
-**Ligneshwar K**  
-GitHub: https://github.com/ligneshwar
+This project was developed with the support of open-source models, libraries, and tools in the sign language recognition domain.  
+Thanks to the broader community for datasets, computer vision frameworks, and pretrained components used for research and development.
 
 ---
 
 ##  License
 
-This project is developed as part of an academic mini project and is intended for educational purposes.
+This project is licensed under the MIT License and is primarily intended for educational use.  
+
 
